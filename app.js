@@ -22,7 +22,7 @@ actionHandler.onAction("search", function(query) {
     }
 
     var Evernote = require('evernote').Evernote,
-        client = new Evernote.Client({token: devToken, sandbox: false}),
+        client = new Evernote.Client({token: devToken, sandbox: false, china: ture}),
         userID = storage.get('userID'),
         shardID = storage.get('shardID');
 
@@ -58,7 +58,7 @@ actionHandler.onAction("token", function(query) {
     var Evernote = require('evernote').Evernote,
         fs = require('fs'),
         token = query,
-        client = new Evernote.Client({token: token, sandbox: false});
+        client = new Evernote.Client({token: token, sandbox: false, china: true});
 
     client.getUserStore().getUser(function (err, user) {
         if (err) {
