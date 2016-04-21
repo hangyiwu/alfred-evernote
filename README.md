@@ -19,7 +19,7 @@ Advanced Search Grammar (Show me notes that contains word `article` and are crea
 ## Get Started
 
 1. Download and Install the workflow. 
-2. Run the `es-token` in Alfred app to setup your token.
+2. Run the `es-token` in Alfred app to setup your token.(run `es-token youtoken` in alfred)
 3. Start searching with the `es` command (stands for Evernote Search)
 4. Play with the other built-in search shortcuts like `es-recent` and `es-todos`
 
