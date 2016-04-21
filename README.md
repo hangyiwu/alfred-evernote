@@ -1,6 +1,6 @@
 # Search Evernote - Alfred 2 workflow
 
-This workflow uses Evernote's API (https://dev.evernote.com/doc/) to perform note search, which provides more relevant results, compare with the Desktop App. The workflow also supports all advanced search grammar that you can find here (https://dev.evernote.com/doc/articles/search_grammar.php). 
+This workflow uses Evernote's API (https://dev.yinxiang.com/doc/) to perform note search, which provides more relevant results, compare with the Desktop App. The workflow also supports all advanced search grammar that you can find here (https://dev.evernote.com/doc/articles/search_grammar.php). 
 
 ## Show Case
 
