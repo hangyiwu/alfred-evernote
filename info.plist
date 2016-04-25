@@ -413,7 +413,7 @@ node app.js "token" "{query}"</string>
 				<key>plusspaces</key>
 				<false/>
 				<key>url</key>
-				<string>https://www.evernote.com/api/DeveloperToken.action</string>
+				<string>https://app.yinxiang.com/api/DeveloperToken.action</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -449,7 +449,7 @@ node app.js "token" "{query}"</string>
 				<key>plusspaces</key>
 				<false/>
 				<key>url</key>
-				<string>https://dev.evernote.com/doc/articles/search_grammar.php</string>
+				<string>https://dev.yinxiang.com/doc/articles/search_grammar.php</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
