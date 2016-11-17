@@ -85,7 +85,7 @@ actionHandler.onAction("get-link", function(linkType) {
             console.log("evernote:///view/%s/%s/%s/%s/", userID, shardID, noteGUID, noteGUID);
             break;
         case "www":
-            console.log("https://www.evernote.com/shard/%s/nl/%s/%s/", shardID, userID, noteGUID);
+            console.log("https://app.yinxiang.com/shard/%s/nl/%s/%s/", shardID, userID, noteGUID);
             break;
     }
 });
